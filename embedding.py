@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 
-# In The Name of Allah
 
 import gensim
 import gensim.models as m
